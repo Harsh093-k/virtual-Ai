@@ -1,4 +1,4 @@
-import uploadOnCloudinary from "../config/cloudinary.js";
+import uploadOnCloudinary from "../config/Cloudinary.js";
 import geminiResponse from "../gemini.js";
 import User from "../model/user.js";
 import cloudinary from "cloudinary";
