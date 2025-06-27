@@ -19,7 +19,7 @@ mongoose.connect("mongodb+srv://virtual:virtualai@cluster0.fbo5jtg.mongodb.net/?
 
 
 const corsOptions = {
-  origin: 'http://localhost:3000', 
+  origin: 'https://virtual-ai-f.vercel.app', 
   credentials: true
 };
 
